@@ -35,9 +35,9 @@ Manual data entry from invoices is slow and error-prone. This project provides a
 │   └── processed/          
 │
 ├── src/                    
-│   ├── extraction_notebook.ipynb   
-│   ├── data_processor.py           
-│   └── app.py                      
+│   ├── ocr_pipleine_flow.ipynb   
+│   ├── processor.py           
+│   └── webapp.py                      
 │
 ├── database/
 │   └── Extraction.sqlite3        
