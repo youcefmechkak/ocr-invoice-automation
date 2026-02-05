@@ -42,7 +42,9 @@ Manual data entry from invoices is slow and error-prone. This project provides a
 ├── database/
 │   └── Extraction.sqlite3        
 │
-├── requirements.txt       
+├── report/
+|   └── report.pdf
+|     
 └── README.md
 ```
 
