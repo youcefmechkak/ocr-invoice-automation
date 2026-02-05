@@ -1,0 +1,89 @@
+Invoice no: 71449499
+Date of issue:
+09/09/2015
+Seller:
+Client:
+Juarez PLC
+Peters-Santiago
+678 Cooper Land Apt. 319
+39506 Johnson Throughway Apt:. 818
+New Ashley, CA 72109
+Andersonshire, RI 45619
+Tax Id: 997-91-5654
+Tax Id: 932-90-6988
+IBAN: GB74VAXB23959279378333
+ITEMS
+No.
+Description
+Qty
+UM
+Net price
+Net worth
+VAT [%]
+Gross
+worth
+PRETTY GOOD JOKE BOOK 2nd
+5,00
+each
+4,49
+22,45
+10%
+24,70
+ED (Prairie Home Compani
+Dutch Cooklng (The Netherlands
+3,00
+each
+12,63
+37,89
+10%
+41,68
+Cookbook) by Heleen
+M
+Halverhout Book The
+3
+Our Family Tree A History of Our
+1,00
+each
+4,49
+4,49
+10%
+4,94
+Family
+Spectacular Ireland Coffee
+5,00
+each
+10,00
+50,00
+10%
+55,00
+Table Book
+very large
+5
+The Real World of Jane Austen
+1,00
+each
+31,94
+31,94
+10%
+35,13
+6_
+Collectors Paperweights 86
+5,00
+each
+5,74
+28,70
+10%
+31,57
+SUMMARY
+VAT [%]
+Net worth
+VAT
+Gross worth
+109
+175,47
+17,55
+193,02
+Total
+175,47
+17,55
+193,02

@@ -1,0 +1,62 @@
+Invoice no: 17045625
+Date of issue:
+11/01/2017
+Seller:
+Client:
+Bass-Petersen
+Davidson-Martinez
+88013 Keith Orchard
+36262 Walters Vista
+Port Jenniferfurt, ID 01419
+Evansstad, ND 36644
+Tax Id: 903-94-7610
+Tax Id: 913-98-2620
+IBAN: GB43AYYU13392404742725
+ITEMS
+No.
+Description
+Qty
+UM
+Net price
+Net worth
+VAT [%]
+Gross
+worth
+Cell: A Novel by Stephen King
+4,00
+each
+4,49
+17,96
+10%
+19,76
+2
+of the Indians of the
+1,00
+each
+4,49
+4,49
+10%
+4,94
+United States (The
+3
+Quilts of Illusion
+1,00
+each
+5,79
+5,79
+10%
+6,37
+SUMMARY
+VAT [%]
+Net worth
+VAT
+Gross worth
+109
+28,24
+2,82
+31,06
+Total
+28,24
+2,82
+31,06
+History

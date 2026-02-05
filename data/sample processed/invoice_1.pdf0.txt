@@ -1,0 +1,72 @@
+Invoice no: 61356291
+Date of issue:
+09/06/2012
+Seller:
+Client:
+Chapman, Kim and Green
+Rodriguez-Stevens
+64731 James Branch
+2280 Angela Plain
+Smithmouth, NC 26872
+Hortonshire, MS 93248
+Tax Id: 949-84-9105
+Tax Id: 939-98-8477
+IBAN: GBSOACIE59715038217063
+ITEMS
+No.
+Description
+Qty
+UM
+Net price
+Net worth
+VAT [%]
+Gross
+worth
+Wine Glasses Goblets Pair Clear
+5,00
+each
+12,00
+60,00
+10%
+66,00
+Glass
+With Hooks Stemware Storage
+4,00
+each
+28,08
+112,32
+10%
+123,55
+Multiple Uses Iron Wine Rack
+Hanging Glass
+Replacement Corkscrew Parts
+1,00
+each
+7,50
+1,50
+10%
+8,25
+Spiral Worm Wine Opener Bottle
+Houdinl
+HOME ESSENTIALS GRADIENT
+1,00
+each
+12,99
+12,99
+10%
+14,29
+STEMLESS WINE GLASSES SET
+OF 4 20 FL OZ (591 ml) NEW
+SUMMARY
+VAT [%]
+Net worth
+VAT
+Gross worth
+10%
+192,81
+19,28
+212,09
+Total
+192,81
+19,28
+212,09

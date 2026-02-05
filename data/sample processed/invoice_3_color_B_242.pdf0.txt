@@ -1,0 +1,46 @@
+Invoice no: 77596491
+Date of issue:
+01/31/2021
+Seller:
+Client:
+Tran, Hurst and Rodgers
+Stephenson Inc
+Unit 2493 Box 1389
+716 Wright Flat Apt. 385
+DPO AP 75814
+South Carrie, GA 17790
+Tax Id: 988-83-0971
+Tax Id: 926-85-5660
+IBAN: GBO4ZWCK22425880230961
+ITEMS
+No.
+Description
+Qty
+UM
+Net price
+Net worth
+VAT [%]
+Gross
+worth
+Earl Scruggs and the 5-String
+1,00
+each
+22,68
+22,68
+10%
+24,95
+Banjo: Revised and Enhanced
+Edition (Paperback or
+SUMMARY
+VAT [%]
+Net worth
+VAT
+Gross worth
+109
+22,68
+2,27
+24,95
+Total
+22,68
+2,27
+24,95
